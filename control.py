@@ -14,7 +14,7 @@ print(
     """
 )
 
-
+print(service.getAll())
 
 def choice():
     choice = int(input("Please choose between 1 and 6: "))
